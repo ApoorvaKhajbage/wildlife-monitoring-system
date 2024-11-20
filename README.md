@@ -44,8 +44,7 @@ venv\Scripts\activate     # Windows
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
-
+We welcome contributions from the community! 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
@@ -62,16 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Computer Vision Research Community
 - Open Source Contributors
 
-## 📚 Citation
-
-If you use this software in your research, please cite:
-
-```bibtex
-@software{wildlife_monitoring_2024,
-  author = {Your Name},
-  title = {Wildlife Monitoring and Conservation System},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/ApoorvaKhajbage/wildlife-monitoring-system}
-}
-```
